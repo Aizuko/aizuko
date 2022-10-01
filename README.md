@@ -6,5 +6,5 @@ Continue here ----> [https://codeberg.org/akemi](https://codeberg.org/akemi) <--
 
 This account remains for old repos and since most groups are still on github
 
- - My pronouns: Anything is fine, for example... "your majesty"
+ - My pronouns: Vi/Vim
  - I also do some [competitive programming](https://open.kattis.com/users/akemi), though that repository is private
