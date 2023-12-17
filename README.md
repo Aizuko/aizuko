@@ -6,5 +6,5 @@ Continue here ----> [https://codeberg.org/akemi](https://codeberg.org/akemi) <--
 
 This account remains for old repos and since most groups are still on github
 
- - My pronouns: Vi/Vim
+ - Check out yaml [food-recipes repo](https://github.com/Aizuko/arewecookingyet) (and make a pr?)
  - I also do some [competitive programming](https://open.kattis.com/users/akemi), though that repository is private
